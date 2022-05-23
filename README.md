@@ -90,6 +90,8 @@ ax.plot3D(X[Y==1,0], X[Y==1,1], X[Y==1,2],'sr')
 plt.show()
 ```
 
+![testData_plot](./img/testData_plot.gif) 
+
 ## テストデータの予測
 
 
@@ -136,14 +138,11 @@ ax.set_title("Visualizing hyper-plane", fontsize=12)
 plt.show()
 ```
 
+![](./img/hyperPlane.gif) 
+
 ## 参考文献  
 以下の記事などが参考になりました。著書の皆様、ありがとうございました。  
 
 https://qiita.com/thtitech/items/4c0777f3825572d7e0eb  
 https://qiita.com/kzm4269/items/8ea85f3d90caecef704b  
 https://stackoverflow.com/questions/51278752/visualize-2d-3d-decision-surface-in-svm-scikit-learn
-
-
-```python
-
-```
