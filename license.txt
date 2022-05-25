@@ -1,4 +1,4 @@
-Copyright (c) 2020, Kenta
+Copyright (c) 2022, Kenta Itakura
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
